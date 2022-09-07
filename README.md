@@ -2,7 +2,7 @@
 
  A CLI Quiz App to find out if you really know MCU (Marvel Cinematic Universe).
 
-This is a levelZero markTwo project of neogCamp.https://neog.camp/guide/lessonone
+This is a levelZero markTwo project of [neogCamp.](https://neog.camp/guide/lessonone)
 
 # Preview
 
