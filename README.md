@@ -6,4 +6,4 @@ This is a levelZero markTwo project of neogCamp.https://neog.camp/guide/lessonon
 
 # Preview
 
-[Do You Know Me?](https://replit.com/@gautamBm/Are-you-a-Marvel-fan-CLI-Marvel-Quiz-App?embed=1&output=1)
+[Are You A Marvel Fan?](https://replit.com/@gautamBm/Are-you-a-Marvel-fan-CLI-Marvel-Quiz-App?embed=1&output=1)
