@@ -1,6 +1,9 @@
 # are-you-a-marvel-fan_cli-quiz-app
 
- A CLI Quiz App to find out if you really know MCU (Marvel Cinematic Universe). The rules are simple. There will be 10 questions related to MCU and for each correct answer you will be rewarded with 1 point. Questions are arranged in mcq format so you need to input only the choice mapped against the correct answer i.e. [a, b, c or d]. There is only 1 correct answer in each question.
+* A CLI Quiz App to find out if you really know MCU (Marvel Cinematic Universe). 
+* The rules are simple. There will be 10 questions related to MCU and for each correct answer you will be rewarded with 1 point. 
+* Questions are arranged in mcq format so you need to input only the choice mapped against the correct answer i.e. [a, b, c or d]. 
+* There is only 1 correct answer in each question.
  
 # Snapshots
 
